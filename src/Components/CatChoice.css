@@ -1,0 +1,10 @@
+.Box{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: flex-end;
+  background-color: white
+}
+.StartAgain{
+  margin: 10px
+}
